@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fauzan Mursalin
-- 👀 I’m interested in computer science
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning Back-End Web
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Ig: @zzuchairul
